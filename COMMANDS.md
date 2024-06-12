@@ -1,1 +1,1 @@
-comando git push
+comando git push, git pull, git fetch
