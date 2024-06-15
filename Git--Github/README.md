@@ -6,4 +6,4 @@
 
 ### Salvando alterações no Git log e restore
 
-### Comandos para versioamento em IDE
+### Comandos para versionamento em IDE
