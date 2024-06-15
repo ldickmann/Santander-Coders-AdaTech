@@ -4,7 +4,16 @@ Este repositório contém meus exercícios e projetos desenvolvidos durante o cu
 
 Cada pasta contém o 'README.md' com o conteúdo do que aprendemos e demais estruturas da pasta em questão.
 
-Atualmente estou em andamento no curso, conforme irei concluindo os módulos irei subindo para o Github.
+## Módulos Concluídos
+
+* **Módulo 1:** Git e Versionamento
+* **Módulo 2:** Redes e Sistemas
+* **Módulo 3:** Introdução Java
+* **Módulo 4:** Programação Orientada a Objetos Básica em Java
+* **Módulo 5:** Banco de Dados
+
+## Módulo em andamento
+* **Módulo 6:** Introdução à estrutura de dados
 
 Lucas E. Dickmann - Developer
 
