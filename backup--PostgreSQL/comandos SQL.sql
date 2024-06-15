@@ -2,6 +2,9 @@
 
 PostgreSQL - Professor Tiago Marto
 
+
+Comandos aprendidos:
+	
 create table 'nome da table' (
 	'id de identificação' *tipo do dado*,
 	'coluna tal' *tipo do dado*(quantidade de caracter[se necessario]),
@@ -36,3 +39,5 @@ create view *matricula_com_sigilo* as
 
 insert into matriculas (id_matricula, id_aluno, preco_da_mensalidade, validade, cpf_do_responsavel)
 values (1, 1, 1000, 13062024, '256.656.987-21')
+
+Autor/Aluno Lucas E. Dickmann - Developer
