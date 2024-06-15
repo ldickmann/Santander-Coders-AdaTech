@@ -1,7 +1,6 @@
-13/06/2024
-
-PostgreSQL - Professor Tiago Marto
-
+Resumo dos comandos aprendidos neste módulo
+	
+PostgreSQL
 
 Comandos aprendidos:
 	
