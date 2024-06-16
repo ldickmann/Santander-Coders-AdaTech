@@ -1,0 +1,4 @@
+Balanceamento de colchetes em uma expressão
+
+Dada uma string de expressão exp, escreva umprograma para examinar se os pares e as ordens de "{", "}", "(", ")", "[", "]"
+estão corretos na expressão dada.
