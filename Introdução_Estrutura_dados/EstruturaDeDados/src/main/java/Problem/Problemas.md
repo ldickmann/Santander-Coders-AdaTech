@@ -1,6 +1,6 @@
 #### Problema 1 - Balanceamento de colchetes em uma expressão.
 
-Dada uma string de expressão exp, escreva um programa para examinar se os pares e as ordens de "{", "}", "(", ")", "[", "]"
+Dada uma string de expressão exp, escreva um programa para examinar se os pares e as ordens de "{", "}", "(", ")", "[","]"
 estão corretos na expressão dada. Expressões do problema:
 
 Expressão inválida
