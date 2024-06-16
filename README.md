@@ -11,9 +11,10 @@ Cada pasta contém o 'README.md' com o conteúdo do que aprendemos e demais estr
 * **Módulo 3:** Introdução Java
 * **Módulo 4:** Programação Orientada a Objetos Básica em Java
 * **Módulo 5:** Banco de Dados
+* **Módulo 6:** Introdução à estrutura de dados
 
 ## Módulo em andamento
-* **Módulo 6:** Introdução à estrutura de dados
+* **Módulo :** Intrudoção a Algoritmos
 
 Lucas E. Dickmann - Developer
 
