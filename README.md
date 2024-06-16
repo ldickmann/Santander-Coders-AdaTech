@@ -13,7 +13,7 @@ Os módulos que contém arquivos e coteúdos são os que contém scripts e coman
 * **Módulo 4:** Programação Orientada a Objetos Básica em Java
 * **Módulo 5:** Banco de Dados
 * **Módulo 6:** Introdução à estrutura de dados
-* **Módulo 7:** Intrudoção a Algoritmos
+* **Módulo 7:** Intrudução a Algoritmos
 
 ## Módulo em Andamento
 
