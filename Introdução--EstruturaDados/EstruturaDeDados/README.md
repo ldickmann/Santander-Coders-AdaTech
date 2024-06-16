@@ -2,7 +2,7 @@
 
 ## Implementação de uma simples lista encadeada em Java.
 
-Nesta implementação utilizamos as seguintes funcionalidades:
+Nesta implementação fizemos uso das seguintes funcionalidades:
 
 - `append(String data)`: Adiciona um novo nó com o dado fornecido no final da lista.
 - `prepend(String data)`: Adiciona um novo nó com o dado fornecido no início da lista.
@@ -18,4 +18,4 @@ Nesta implementação utilizamos as seguintes funcionalidades:
 - `makeEmpty()`: Esvazia a lista, removendo todos os nós.
 - `print()`: Imprime todos os elementos da lista, do primeiro ao último.
 
-Lucas E. Dickmann - Dev. Full Stack.
+Aluno/Autor: Lucas E. Dickmann - Dev. Full Stack.
