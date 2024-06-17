@@ -14,9 +14,6 @@ Os módulos que contém arquivos e coteúdos são os que contém scripts e coman
 * **Módulo 5:** Banco de Dados
 * **Módulo 6:** Introdução à estrutura de dados
 * **Módulo 7:** Introdução a Algoritmos
-
-## Módulo em Andamento
-
 * **Módulo 8:** Design Patterns em Java 
 
 Lucas E. Dickmann - Developer
