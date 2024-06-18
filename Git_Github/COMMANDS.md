@@ -1,6 +1,6 @@
 ## Comandos Git - Autor/Aluno Lucas E. Dickmann
 
-Este arquivo README.md serve como guia rápido para os comandos Git mais importantes.
+Este arquivo COMMANDS.md serve como guia rápido para os comandos Git mais importantes.
 
 **Alguns Comandos:**
 
