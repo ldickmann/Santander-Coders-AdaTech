@@ -5,7 +5,9 @@ Este repositório contém meus exercícios e projetos desenvolvidos durante o cu
 Cada pasta contém o 'README.md' com o conteúdo do que aprendemos e demais estruturas da pasta em questão.<br/>
 Os módulos que contém arquivos e coteúdos são os que contém scripts e comandos relacionados com desenvolvimento de sistemas.
 
-## Módulos Concluídos
+
+## Curso Backend
+### Módulos Concluídos
 
 * **Módulo 1:** Git e Versionamento
 * **Módulo 2:** Redes e Sistemas
@@ -15,6 +17,14 @@ Os módulos que contém arquivos e coteúdos são os que contém scripts e coman
 * **Módulo 6:** Introdução à estrutura de dados
 * **Módulo 7:** Introdução a Algoritmos
 * **Módulo 8:** Design Patterns em Java 
+
+## Curso DevOps
+### Módulos Concluídos
+
+### Módulo em Andamento
+
+* **Módulo 1:** Sistema Operacional Linux
+
 
 Lucas E. Dickmann - Developer
 
