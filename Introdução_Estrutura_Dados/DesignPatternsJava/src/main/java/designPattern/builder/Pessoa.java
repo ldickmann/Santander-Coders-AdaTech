@@ -1,5 +1,3 @@
-package designPattern.builder;
-
 import java.time.LocalDate;
 
 public class Pessoa {

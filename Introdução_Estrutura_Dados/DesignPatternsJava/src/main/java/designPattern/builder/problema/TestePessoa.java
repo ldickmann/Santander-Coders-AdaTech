@@ -1,7 +1,3 @@
-package designPattern.builder.problema;
-
-import designPattern.builder.Pessoa;
-
 import java.time.LocalDate;
 
 public class TestePessoa {
@@ -18,5 +14,3 @@ public class TestePessoa {
     }
 
 }
-
-// parei o video no minuto 16:26
