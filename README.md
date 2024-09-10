@@ -18,14 +18,7 @@ Os módulos que contém arquivos e coteúdos são os que contém scripts e coman
 * **Módulo 7:** Introdução a Algoritmos
 * **Módulo 8:** Design Patterns em Java 
 
-## Curso DevOps
-### Módulos Concluídos
-
-### Módulo em Andamento
-
-* **Módulo 1:** Sistema Operacional Linux
-
-
-Lucas E. Dickmann - Developer
+---
+### Lucas E. Dickmann - Developer
 
 https://www.linkedin.com/in/lucas-dickmann
