@@ -16,9 +16,17 @@ Os módulos que contém arquivos e coteúdos são os que contém scripts e coman
 * **Módulo 5:** Banco de Dados
 * **Módulo 6:** Introdução à estrutura de dados
 * **Módulo 7:** Introdução a Algoritmos
-* **Módulo 8:** Design Patterns em Java 
+* **Módulo 8:** Design Patterns em Java
 
 ---
-### Lucas E. Dickmann - Developer
 
-https://www.linkedin.com/in/lucas-dickmann
+![certificado-coders-santander](https://github.com/user-attachments/assets/67c629ea-c008-4725-a21c-63f79132355a)
+
+<div align="center">
+https://ada.tech/certificado?code=15a826a4-c03c-ad76-e500-e74788349b48
+</div>
+
+---
+
+### Lucas E. Dickmann - Web Developer
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-dickmann)
